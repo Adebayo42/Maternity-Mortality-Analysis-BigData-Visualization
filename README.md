@@ -64,7 +64,7 @@ Collaborative action between governments, healthcare organizations, and internat
 ---
 
 ## Project Relevance
-Demonstrates business intelligence development,  real-time data integration, and strategic communication for operational decision-making—skills highly transferable to AI, data engineering, and facilities management transformation roles.
+Demonstrates business intelligence development,  real-time data integration, and strategic communication for operational decision-making—skills.
 
 ---
 
